@@ -45,11 +45,12 @@ Soy profesional en soporte técnico con experiencia en la industria de las telec
 ### 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnitaVidela-blue?logo=linkedin)](https://www.linkedin.com/in/-anabellarvidela-?trk=contact-info)
+
 📧 anabellavidela85@gmail.com
 
 ---
 
 > 💡 *Gracias por visitar mi perfil. ¡Seguimos creciendo!*
-## Hi there 👋
+
 
 
