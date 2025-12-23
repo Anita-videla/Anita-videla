@@ -1,56 +1,47 @@
-<h1 align="center">¡Hola! Soy Anabella Videla 👋</h1>
+# ¡Hola! Soy Anabella Videla 👋
 
-<p align="center">
-🌐 Soporte Técnico en Telecomunicaciones • 📍 Buenos Aires, Argentina  
-📞 Atención al cliente | 🛠️ CRM, Citrix, Codi | 🤝 Gestión de visitas técnicas  
-</p>
+### 🚀 Desarrolladora Full Stack en Formación | QA Enthusiast
 
----
-
-### 🧭 Sobre mí
-
-Soy profesional en soporte técnico con experiencia en la industria de las telecomunicaciones. Mi enfoque está en ofrecer una atención al cliente excepcional, resolver incidencias con eficacia, y coordinar tareas técnicas con herramientas como **Citrix**, **CRM**, y **Codi**.
-
-📌 Me interesa seguir creciendo profesionalmente, explorando soluciones automatizadas y buenas prácticas en IT.
+Actualmente estudio la **Tecnicatura Universitaria en Programación** y me especializo en crear soluciones eficientes combinando lógica de programación con una sólida base en Testing QA y atención al cliente estratégica.
 
 ---
 
-### 🛠️ Herramientas y habilidades
+### 🛠️ Mi Stack Tecnológico
 
-- 🎯 Gestión de CRM para seguimiento de casos
-- 🖥️ Uso avanzado de Citrix y entornos virtuales
-- 📋 Coordinación de técnicos y generación de tickets
-- 🧠 Resolución de incidencias técnicas y atención de calidad
-- 📊 Documentación de procesos y plantillas internas
+**Frontend**
+- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Backend & Database**
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### 🚀 Proyectos en curso (y futuros)
-
-- `guia-soporte-crm`: Manual de buenas prácticas para CRM
-- `automatizacion-informes`: Automatización de reportes en soporte (en desarrollo)
-- `plantillas-reportes`: Recursos útiles para soporte diario
-- `citrix-tips`: Trucos y soluciones comunes en entornos virtuales
-
----
-
-### 📈 Objetivos
-
-- Aprender automatización con Python para tareas repetitivas  
-- Compartir recursos que ayuden a otros técnicos de soporte  
-- Crear un portafolio con documentación útil y profesional
+**QA & Herramientas**
+- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📬 Contacto
+### 📁 Proyectos Destacados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnitaVidela-blue?logo=linkedin)](https://www.linkedin.com/in/-anabellarvidela-?trk=contact-info)
-
-📧 anabellavidela85@gmail.com
+- **📦 Control de Stock:** Una aplicación robusta desarrollada con Angular y Node.js, utilizando Supabase para la gestión de datos en tiempo real. (Líder de proyecto).
+- **🛡️ QA Testing:** Repositorios con casos de prueba y reportes de errores detallados.
 
 ---
 
-> 💡 *Gracias por visitar mi perfil. ¡Seguimos creciendo!*
+### 📫 Contacto
+
+- **LinkedIn:** www.linkedin.com/in/-anabellarvidela-
+- **Email:** anabellavidela85@gmail.com
+- **Ubicación:** Buenos Aires, Argentina
+
+---
+⚡ *Dato curioso: Mi experiencia previa en atención al cliente me permite desarrollar software pensando siempre en la facilidad de uso para el usuario final.*
 
 
 
