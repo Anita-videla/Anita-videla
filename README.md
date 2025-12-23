@@ -7,8 +7,15 @@ Actualmente estudio la **Tecnicatura Universitaria en Programación** y me espec
 ---
 
 ### 🛠️ Mi Stack Tecnológico
+# Hola, soy Anabella Videla 👋
+
+## 🚀 Desarrolladora Full Stack | QA Enthusiast
+
+### 🛠️ Tecnologías y Lenguajes
 
 **Frontend**
+-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -32,15 +39,15 @@ Actualmente estudio la **Tecnicatura Universitaria en Programación** y me espec
 *Plataforma integral para la gestión de servicios médicos con múltiples perfiles de usuario.*
 
 - **Tecnologías:** Angular 18, TypeScript, Supabase (PostgreSQL), Firebase (Auth & Storage).
-- [cite_start]**Gestión de Usuarios:** Implementación de tres perfiles con lógica diferenciada: **Paciente, Especialista y Administrador**[cite: 31, 35].
+- **Gestión de Usuarios:** Implementación de tres perfiles con lógica diferenciada: **Paciente, Especialista y Administrador**.
 - **Funcionalidades Core:**
-    - [cite_start]**Sistema de Turnos:** Solicitud, cancelación, rechazo y finalización de turnos con comentarios y diagnósticos[cite: 11, 12, 13].
-    - [cite_start]**Historias Clínicas:** Registro detallado de atención médica para cada paciente[cite: 11, 12, 13].
-    - [cite_start]**Estadísticas (Admin):** Visualización de gráficos y reportes de atención mediante servicios dedicados[cite: 31, 32].
-    - [cite_start]**Multi-idioma:** Soporte para Español, Inglés y Portugués mediante un `i18n service` propio[cite: 13].
+    - **Sistema de Turnos:** Solicitud, cancelación, rechazo y finalización de turnos con comentarios y diagnósticos.
+    - **Historias Clínicas:** Registro detallado de atención médica para cada paciente.
+    - **Estadísticas (Admin):** Visualización de gráficos y reportes de atención mediante servicios dedicados.
+    - **Multi-idioma:** Soporte para Español, Inglés y Portugués mediante un `i18n service` propio.
 - **Seguridad y Calidad:**
     - **Validaciones:** Captcha propio para asegurar el registro de usuarios.
-    - [cite_start]**Directivas y Pipes:** Uso de directivas personalizadas para estilos dinámicos (roles, estados de turnos) y pipes para transformación de datos[cite: 13, 27].
+    - **Directivas y Pipes:** Uso de directivas personalizadas para estilos dinámicos (roles, estados de turnos) y pipes para transformación de datos.
 
 - **📦 Control de Stock:** Una aplicación robusta desarrollada con Angular y Node.js, utilizando Supabase para la gestión de datos en tiempo real. (Líder de proyecto).
 - **🛡️ QA Testing:** Repositorios con casos de prueba y reportes de errores detallados.
