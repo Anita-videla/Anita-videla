@@ -28,6 +28,19 @@ Actualmente estudio la **Tecnicatura Universitaria en Programación** y me espec
 ---
 
 ### 📁 Proyectos Destacados
+### 🏥  Clínica Online
+*Plataforma integral para la gestión de servicios médicos con múltiples perfiles de usuario.*
+
+- **Tecnologías:** Angular 18, TypeScript, Supabase (PostgreSQL), Firebase (Auth & Storage).
+- [cite_start]**Gestión de Usuarios:** Implementación de tres perfiles con lógica diferenciada: **Paciente, Especialista y Administrador**[cite: 31, 35].
+- **Funcionalidades Core:**
+    - [cite_start]**Sistema de Turnos:** Solicitud, cancelación, rechazo y finalización de turnos con comentarios y diagnósticos[cite: 11, 12, 13].
+    - [cite_start]**Historias Clínicas:** Registro detallado de atención médica para cada paciente[cite: 11, 12, 13].
+    - [cite_start]**Estadísticas (Admin):** Visualización de gráficos y reportes de atención mediante servicios dedicados[cite: 31, 32].
+    - [cite_start]**Multi-idioma:** Soporte para Español, Inglés y Portugués mediante un `i18n service` propio[cite: 13].
+- **Seguridad y Calidad:**
+    - **Validaciones:** Captcha propio para asegurar el registro de usuarios.
+    - [cite_start]**Directivas y Pipes:** Uso de directivas personalizadas para estilos dinámicos (roles, estados de turnos) y pipes para transformación de datos[cite: 13, 27].
 
 - **📦 Control de Stock:** Una aplicación robusta desarrollada con Angular y Node.js, utilizando Supabase para la gestión de datos en tiempo real. (Líder de proyecto).
 - **🛡️ QA Testing:** Repositorios con casos de prueba y reportes de errores detallados.
