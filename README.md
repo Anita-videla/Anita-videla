@@ -29,7 +29,7 @@ Actualmente estudio la **Tecnicatura Universitaria en Programación** y me espec
 **QA & Herramientas**
 - ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 - ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![MantisBT](https://img.shields.io/badge/Mantis_BT-444444?style=for-the-badge&logo=bugsnag&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+- ![MantisBT](https://img.shields.io/badge/Mantis_BT-444444?style=for-the-badge&logo=bugsnag&logoColor=white) 
 
 ---
 
