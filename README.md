@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Anabella Videla 👋</h1>
 
 <p align="center">
-🌐 Soporte Técnico en Telecomunicaciones • 📍 Mendoza, Argentina  
+🌐 Soporte Técnico en Telecomunicaciones • 📍 Buenos Aires, Argentina  
 📞 Atención al cliente | 🛠️ CRM, Citrix, Codi | 🤝 Gestión de visitas técnicas  
 </p>
 
